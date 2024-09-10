@@ -22,13 +22,13 @@
 <resources>
     <!-- Preferable keyboard height in absolute scale: 58.0mm -->
     <!-- This config_default_keyboard_height value should match with keyboard-heights.xml -->
-    <dimen name="config_default_keyboard_height">20%p</dimen>
-    <fraction name="config_min_keyboard_height">15%p</fraction>
+    <dimen name="config_default_keyboard_height">365.4dp</dimen>
+    <fraction name="config_min_keyboard_height">35%p</fraction>
 
-    <fraction name="config_keyboard_top_padding">2%p</fraction>
-    <fraction name="config_keyboard_bottom_padding">2%p</fraction>
-    <fraction name="config_keyboard_left_padding">27%p</fraction>
-    <fraction name="config_keyboard_right_padding">27%p</fraction>
+    <fraction name="config_keyboard_top_padding">1.896%p</fraction>
+    <fraction name="config_keyboard_bottom_padding">0.0%p</fraction>
+    <fraction name="config_keyboard_left_padding">0.515%p</fraction>
+    <fraction name="config_keyboard_right_padding">0.515%p</fraction>
     <fraction name="config_key_vertical_gap">3.690%p</fraction>
     <fraction name="config_key_horizontal_gap">1.030%p</fraction>
 
