@@ -510,6 +510,7 @@ public final class MainKeyboardView extends KeyboardView implements MoreKeysPane
         if (getKeyboard() == null) {
             return false;
         }
+        /* Let touches outside keyboard in x-axis pass through to application behind keyboard */
         final Drawable background = getBackground();
         if (background != null && !isShowingMoreKeysPanel()) {
             if (event.getX() < background.getBounds().left || event.getX() > background.getBounds().right) {

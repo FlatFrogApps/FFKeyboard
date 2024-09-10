@@ -14,6 +14,8 @@
      limitations under the License.
 -->
 
+<!-- Stock keyboard has rectangular keys, and different color on abc/shift+more-keys/enter, this code changes colors and corner radius-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- Action keys. (enter) -->
     <item android:state_active="true" android:state_pressed="true">
