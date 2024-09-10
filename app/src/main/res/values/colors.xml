@@ -33,14 +33,14 @@
     <color name="key_background_normal_lxx_light">#62636C</color>
     <color name="key_background_pressed_lxx_light">#B9BBC6</color>
     <!-- Color resources for LXX_Dark theme. -->
-    <color name="background_lxx_dark">#EE252629</color>
+    <color name="background_lxx_dark">#263238</color>
     <color name="key_text_color_lxx_dark">#CCFFFFFF</color>
     <color name="key_functional_text_color_lxx_dark">#CCFFFFFF</color>
     <color name="key_text_inactive_color_lxx_dark">#80FFFFFF</color>
     <color name="key_hint_letter_color_lxx_dark">#80FFFFFF</color>
-    <color name="sliding_key_input_preview_color_lxx_dark">#B3FFFFFF</color>
-    <color name="key_background_normal_lxx_dark">#4A4B51</color>
-    <color name="key_background_pressed_lxx_dark">#94959E</color>
+    <color name="sliding_key_input_preview_color_lxx_dark">#B380CBC4</color>
+    <color name="key_background_normal_lxx_dark">#66222222</color>
+    <color name="key_background_pressed_lxx_dark">#19FFFFFF</color>
     <!-- Dimensions for all themes. -->
     <dimen name="button_corner_radius_lxx">5dp</dimen>
  </resources>
